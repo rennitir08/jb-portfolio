@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url("../public/crossword.png")
+}
+.hero-body {
+  background-image: url("../public/ws_Macbook_on_Table_1920x1200.jpg")
+}
+.name {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 80px;
+  color: white;
+}
+.title {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 40px;
+  color: midnightblue;
+}
+.languages {
+  font-size: 60px;
+}
+.icon-size {
+  font-size: 60px;
+}
+.shadow {
+  box-shadow: 6px 6px 3px #888888;
+}
+h1 {
+  font-family: 'Lora', serif;
+  font-size: 50px;
+  color: midnightblue;
+}
+.is-fixed-top {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+iframe {
+    height: 800px;
+    width:1200px;
+    box-shadow: -5px 9px 26px #888888;
+}
+.underline {
+  text-decoration: underline;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
