@@ -5,7 +5,7 @@ import './index.css';
 class Projects extends Component {
   render() {
     return <div>
-            <h1 id="projects" className="has-text-centered underline">PROJECTS <i className="fa fa-rocket fa-5x" aria-hidden="true"></i></h1>
+            <h1 id="projects" className="has-text-centered underline">PROJECTS</h1>
             <br/>
             <br/>
             <br/>
