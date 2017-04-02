@@ -5,8 +5,8 @@
   "dependencies": {
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "homepage": "https://rennitir08.github.io/my-app",
-    "react-router": "^4.0.0"
+    "react-router": "^4.0.0",
+    "surge": "^0.19.0"
   },
   "devDependencies": {
     "react-scripts": "0.9.5"
