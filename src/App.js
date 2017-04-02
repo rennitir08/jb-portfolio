@@ -18,7 +18,7 @@ class App extends Component {
             <a className="nav-item is-tab is-hidden-mobile" href="#home">Home</a>
             <a className="nav-item is-tab is-hidden-mobile" href="#projects">Projects</a>
             <a className="nav-item is-tab is-hidden-mobile" href="#resume">Resume</a>
-            <a className="nav-item is-tab is-hidden-mobile" href="#contact">Contact</a>
+            <a className="nav-item is-tab is-hidden-mobile" href="#contact">Contact</a>  
           </div>
           <span className="nav-toggle">
             <span></span>
@@ -30,7 +30,7 @@ class App extends Component {
             <a className="nav-item is-tab is-hidden-tablet" href="#projects">Projects</a>
             <a className="nav-item is-tab is-hidden-tablet" href="#resume">Resume</a>
             <a className="nav-item is-tab is-hidden-tablet" href="#contact">Contact</a>
-            <a href="https://www.linkedin.com/in/jennifer-bonner-28560497"><img className="square" src="square.jpg" alt="profile"/></a>
+            <a href="https://www.linkedin.com/in/jennifer-bonner-28560497" target="_blank"><img className="square is-pulled-right" src="square.jpg" alt="profile"/></a>
           </div>
         </div>
       </nav>
@@ -42,7 +42,7 @@ class App extends Component {
            <div className="title has-text-centered">Front End Engineer</div>
 
               <div className="tile is-parent is-vertical">
-                <article id="animation" className="tile is-child">
+                <article id="animation" className="tile is-child icons">
                   <div className="languages has-text-centered">
                     <i className="devicon-html5-plain-wordmark colored"></i>
                     <i className="devicon-css3-plain-wordmark colored"></i>
@@ -76,10 +76,10 @@ class App extends Component {
   <div className="container">
     <div className="content has-text-centered">
       <p>
-        <strong>Portfolio</strong> by <a href="https://www.linkedin.com/in/jennifer-bonner-28560497">Jennifer Bonner</a> &copy; 2017
+        <strong>Portfolio</strong> by <a href="https://www.linkedin.com/in/jennifer-bonner-28560497" target="_blank">Jennifer Bonner</a> &copy; 2017
       </p>
       <p>
-        <a className="icon" href="https://github.com/rennitir08">
+        <a className="icon" href="https://github.com/rennitir08" target="_blank">
           <i className="fa fa-github"></i>
         </a>
       </p>
